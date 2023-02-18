@@ -5,6 +5,7 @@
 The purpose of this project is to analyze the financial data from the budget_data.csv of a fictitious company to extract the following information:
 
 The total number of months included in the dataset.
+
 The net total amount of "Profit/Losses" over the entire period.
 The average of the changes in "Profit/Losses" over the entire period.
 The greatest increase in profits (date and amount) over the entire period
