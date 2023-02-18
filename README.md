@@ -1,5 +1,8 @@
 # python-challenge
 
+![image](https://user-images.githubusercontent.com/118692087/219827424-c55ffdfe-f98a-4c69-81f5-1ddf854268aa.png)
+
+
 * PyBank
 
 The purpose of this project is to analyze the financial data from the budget_data.csv of a fictitious company to extract the following information:
