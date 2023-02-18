@@ -11,7 +11,7 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
 
-*PyPoll
+* PyPoll
 
 The purpose of this project is to modernize the vote-counting process at a small rural town. The project contains a python script that computes the following results from the election_data.csv.
 
